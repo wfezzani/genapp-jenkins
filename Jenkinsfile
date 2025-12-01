@@ -9,7 +9,7 @@ pipeline {
 				
 					}
 
-					println("${PipelineName}[INFO]: AppBranch = ${AppBranch} .")
+				println("${PipelineName}[INFO]: AppBranch = ${AppBranch} .")
 					
 				}
 			}
