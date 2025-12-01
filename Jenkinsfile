@@ -4,7 +4,7 @@ pipeline {
 	
 	stages {
 		
-		stage ('Clone') {
+		stage ('Clone projetc') {
 			steps {
 				
 					}
