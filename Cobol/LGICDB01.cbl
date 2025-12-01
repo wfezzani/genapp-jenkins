@@ -18,7 +18,7 @@
       * Select customer details from DB2 table                         *
       *                                                                *
       *                                                                *
-      *test4                                                            *
+      *test5                                                            *
 
       ******************************************************************
        IDENTIFICATION DIVISION.
